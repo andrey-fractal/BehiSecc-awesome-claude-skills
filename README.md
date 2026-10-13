@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [make-it-short](https://github.com/andrey-fractal/make-it-short) - Edit Russian text in infostyle (Ilyakhov's "Write, Cut"): cut filler and bureaucratese at three strictness levels, with a per-change review.
 
 
 ## 📘 Learning & Knowledge  
